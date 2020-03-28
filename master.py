@@ -10,7 +10,7 @@ def main():
                          password=config.password,
                          user_agent=config.user_agent,
                          username=config.username)
-    displayName = 'redditdev'
+    displayName = 'GenX'
     print("You username is " + str(reddit.user.me()))
     getsubmissons.getSubmissions(reddit, displayName, 'submissions')
 

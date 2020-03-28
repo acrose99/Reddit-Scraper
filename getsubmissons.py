@@ -6,7 +6,7 @@ def getSubmissions(reddit, displayName, data):
     subreddit = reddit.subreddit(displayName)
     subredditTitle = "/r/" + displayName
     users = []
-    for submission in subreddit.top(limit=50):
+    for submission in subreddit.new(limit=10):
         submissionTitle = submission.title
         # print(submissionTitle)
         comments = submission.comments
@@ -19,6 +19,6 @@ def getSubmissions(reddit, displayName, data):
             # print("User: " + str(user))
     getusercomments.getComments(reddit, users, subredditTitle)
 
-def getUserComments(reddit, users, subredditOfOrgin):
-    for user in users:
-        getusercomments.getComments(reddit, user, subredditOfOrgin)
+# def getUserComments(reddit, users, subredditOfOrgin):
+#     for user in users:
+#         getusercomments.getComments(reddit, user, subredditOfOrgin)
