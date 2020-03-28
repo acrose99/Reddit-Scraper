@@ -6,3 +6,5 @@
 3. For each username, save the user’s most 50 recent comments 
 4. Write each comment to a csv file
     * Save the comment, and the subreddit for labeled data. 
+
+
