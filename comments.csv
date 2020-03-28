@@ -1,0 +1,123 @@
+,Comment,SubredditofOrgin,Submission,User
+0,https://en.wikipedia.org/wiki/European_plaice,/r/redditdev,Sometimes Luna just decides to go sideways,nakilon
+1,"> If they prove their worth by being accessed 2+ times, then precious I/O bandwidth is used writing them to disk.
+
+He says they move to the disk when it's popular.
+
+> the decision to move them to disk until they know that they truly are unpopular.
+
+You say they move when it's unpopular.",/r/redditdev,Cloudflare: Why We Started Putting Unpopular Assets in Memory,nakilon
+2,"https://i.imgur.com/zYgCPma.png
+
+When I click the search field, the cursor does not appear. And when I press letters they don't show up. The site just freezes.",/r/redditdev,Film4k.to | Watch Online Movies For Free In Full HD | ZERO ADS | Multiple Players,nakilon
+3,I opened devtools only because it does not work.,/r/redditdev,Film4k.to | Watch Online Movies For Free In Full HD | ZERO ADS | Multiple Players,nakilon
+4,"Search field does not work, it calls debugger and pauses.",/r/redditdev,Film4k.to | Watch Online Movies For Free In Full HD | ZERO ADS | Multiple Players,nakilon
+5,I believe this is already in directory /r/gamesuggestions,/r/redditdev,A sub for looking for a game,nakilon
+6,"I hate the spambot of the MrBeast that leaves
+
+> Tem  
+> 1 minute ago  
+> great content keep up the amazing work
+
+under all of my last videos.",/r/redditdev,The most stupid deaths from my first 102 plays,nakilon
+7,Webcam can help.,/r/redditdev,"Not exactly popping, but removing a blockage from a product I haven’t used in awhile",nakilon
+8,Now I want half of stuff you mentioned.,/r/redditdev,Knuckin Fob,nakilon
+9,No problem. It is just that every subreddit has own rules. This subreddit is fully automated -- all posts are made by bot -- so no action required on your side. I've just edited and restarted the bot to avoid the issue.,/r/redditdev,"[8272x4295] Update, March 23, 2020. Nepal has its second case after staying in the green for a long while. Mozambique and Syria are now listed. I added the oil price, another variable to be watching as this event unfolds. Might soon add some rising unemployment figures, somewhere. Thank you, all!...",nakilon
+10,Thank you!,/r/redditdev,Bilbo sits like this u/hopefulpossession,nakilon
+11,"The only upvoted comment of my thread here on that is where I've attached hexdump of his map. People love funny images and cool symbols attached, but if you ask them to start thinking, meh...",/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+12,Kids have discovered internets yesterday. Don't ruin their fun.,/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+13,Can we list them somewhere else? Like Github.,/r/redditdev,"Nearly 22,000 communities murdered in 2019, 256 wounded",nakilon
+14,"Just few minutes after I gave my feedback (under the 4 days old comment) on what they are doing I've found that someone has upvoted admin and downvoted me.
+
+Or since asking someone to upvote your comment and downvote someone's else under the 4 days old thread would be pretty much awkward, probably admin has used another account to do that, that is actually a Reddit rules violation, right?",/r/redditdev,Admin asked someone to upvote his comment and downvote mine,nakilon
+15,"It sucks. You have switched me to the redesign like 5 times without asking. Now you are stopping supporting it at all.
+
+> You won't have to force users 
+
+Of course, because YOU ARE forcing them.",/r/redditdev,Chat Posts are Becoming Available to Some Communities,nakilon
+16,https://www.reddit.com/r/Diabotical/comments/fnhe0g/template_for_showcasing_your_diabotical_map_on/flapia0/,/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+17,awww,/r/redditdev,Woke up with this monstrosity on my face and popped it after a hot shower,nakilon
+18,"> don't have to bother
+
+But you **do** bother with git and you accumulate 8 megabytes on each edit on your side. You are starting making no sense. Like a bot. Ignored.",/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+19,You don't have to bother about optimizing problems that don't have to exist in the first place. Just don't push the binary to git. If it was so smooth as you imagine there would be no Git LFS. And the Git LFS is a pain in the ass. Just don't do it.,/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+20,"> diffed by git
+
+What do you even mean? Your map is 8 megabytes of this binary mess:
+
+    000113d0  00 00 00 00 02 00 04 00  00 00 13 00 00 00 02 00  |................|
+    000113e0  00 00 01 00 00 00 00 00  00 00 00 00 00 00 00 02  |................|
+    000113f0  02 02 02 01 03 00 00 00  00 00 00 00 00 00 00 00  |................|
+    00011400  00 00 01 00 17 00 00 00  08 00 00 00 02 00 00 00  |................|
+    00011410  01 00 00 00 00 00 00 00  00 00 00 00 00 02 02 02  |................|
+    00011420  02 01 03 00 00 00 00 00  00 00 00 00 00 00 00 00  |................|
+    00011430  01 00 25 00 00 00 23 00  00 00 f4 ff ff ff 01 00  |..%...#.........|
+    00011440  00 00 00 00 00 00 00 00  00 00 00 02 02 02 02 01  |................|
+    00011450  03 00 00 00 00 00 00 00  00 00 00 00 00 00 02 00  |................|
+    00011460  f8 ff ff ff 21 00 00 00  ff ff ff ff 01 00 00 00  |....!...........|
+    00011470  00 00 00 00 00 00 00 00  00 02 02 02 02 01 03 00  |................|
+    00011480  00 00 00 00 00 00 00 00  00 00 00 00 01 00 38 00  |..............8.|
+    00011490  00 00 18 00 00 00 f4 ff  ff ff 01 00 00 00 00 00  |................|
+    000114a0  00 00 00 00 00 00 00 02  02 02 02 01 03 00 00 00  |................|
+    000114b0  00 00 00 00 00 00 00 00  00 00 02 00 01 00 00 00  |................|
+    000114c0  20 00 00 00 e5 ff ff ff  01 00 00 00 00 00 00 00  | ...............|
+    000114d0  00 00 00 00 00 02 02 02  02 01 03 00 00 00 00 00  |................|
+    000114e0  00 00 00 00 00 00 00 00  02 00 14 00 00 00 15 00  |................|
+    000114f0  00 00 e5 ff ff ff 01 00  00 00 00 00 00 00 00 00  |................|
+
+The git stores every revision without diffing. Every commit will add 8 more megabytes. You'll get the stuff packed only after you do the `git gc`manually -- https://stackoverflow.com/a/59346690/322020",/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+21,"The link is about binary files that dude is going to **attach to the code that is already under git**.
+
+> why use another way when you have a perfect solution already
+
+So this is not the relevant case. You are not attaching the binary files to anything that is already in the git, you are doing it all from scratch -- from the point where you should better look for other options. I believe there are plenty of websites for hosting and sharing videogame maps. The only ""profit"" you are going to have by storing it on Github/Gitlab instead of Google Drive is automatic README markdown rendering -- just for a collage?..
+
+> The point of version control is to allow you to recover / roll back to stuff
+
+Don't tell me we are going to roll back, branch, merge, build CI around the community arena shooter map editing. Community made maps will have the average number of versions lower than 2.",/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+22,I'm very sorry but every update gets to this subreddit that is unnecessary and when you look at the subreddit page they look like duplicates. I'll have to ignore your submissions by username.,/r/redditdev,"[8272x4295] Update, March 23, 2020. Nepal has its second case after staying in the green for a long while. Mozambique and Syria are now listed. I added the oil price, another variable to be watching as this event unfolds. Might soon add some rising unemployment figures, somewhere. Thank you, all!...",nakilon
+23,Nice cat but I'm really thinking about adding a rule that the front legs should touch the ground. Because then it's not really sitting but just lying while letting legs hang down.,/r/redditdev,Bilbo sits like this u/hopefulpossession,nakilon
+24,Nice cat but I'm really thinking about adding a rule that the front legs should touch the ground. Because then it's not really sitting but just lying while letting legs hang down.,/r/redditdev,I've got one of these. This is Joe.,nakilon
+25,"FFS, **git is not for binary files**. Stop it. Find another place. Moddb or anything else modders use to host custom content I don't know. But not Github -- it is for code.",/r/redditdev,"Template for showcasing your Diabotical map on GitHub -- super easy to set up, just click and drag (link in comments)",nakilon
+26,"Imagine building a farm with wheat and fleshes...  
+If you don't slay the flesh in time it eats too much of radioactive grass/wheat, break the farm and go hunt stalkers nearby. So you can build a farm near the enemy camp, heh...",/r/redditdev,Here is your first glimpse at S.T.A.L.K.E.R. 2,nakilon
+27,I hope the game will not have the stupidly complex weapon repair/modding system. The basic SSoC system was ok and I would say ok if the parts of the weapon break with different random speed so I have to disassemble and reassemble but what they've made in Anomaly made me stop playing and deinstall the game right when my gun went shit because trying to understand how the two mods mixed work together in couple with that the game is in Russian and manuals are in English or vice versa... A ton of items that you have to spend days to read their description and it still remains unclear how even apply them (mouse drag? context menu? on the item or on the weapon or on the part?) If it's so complec to just repair my Makarov then I don't play it.,/r/redditdev,Here is your first glimpse at S.T.A.L.K.E.R. 2,nakilon
+28,Unreal engine looks good. No marketing bullshit RTX needed.,/r/redditdev,Here is your first glimpse at S.T.A.L.K.E.R. 2,nakilon
+29,"There is a Russian proverb that ""nothing is so much permanent as temporary"". There is a risk that the thing will remain on clientside fully or partially.",/r/redditdev,End of Closed Beta update,nakilon
+30,"Reading about ""clientside netcode"" is making me change my opinion on this game. We were shitting on QC for bugs related to such amateurity that the QC was obviously made by coders who didn't even bother to learn how to do their job by researching how the games were done at least 20 years ago and now I read such dev notes in /r/diabotical ...",/r/redditdev,End of Closed Beta update,nakilon
+31,Да какая разница вообще? Здоровье в кол-ве медиков измеряется?,/r/redditdev,Russia sends 9 planes with military doctors to Italy,nakilon
+32,I didn't have a flu since 2005. Really. Probably means I'm 10x programmer.,/r/redditdev,"I am a programmer so knowing the worst case, usual case, and best case helps me understand [coronavirus predictions]",nakilon
+33,"Вообще в статье написано восемь.  
+На Ленте же написано, что восемь плюс девять: https://lenta.ru/news/2020/03/22/first/",/r/redditdev,Russia sends 9 planes with military doctors to Italy,nakilon
+34,The whole second long look.,/r/redditdev,living a life of luxury,nakilon
+35,"Ah, I'm sorry, didn't go by the link and read the README -- it says chapter 6 wants you to do some exercises in writing code for doing HTTP requests.",/r/redditdev,I'm reading Why's Poignant Guide to Ruby. The preeventualist.org website from Chapter 6 is down. How do i make use of this Github alternative provided by mistydemeo?,nakilon
+36,Isn't it a static html pages site? Why is Sinatra used?,/r/redditdev,I'm reading Why's Poignant Guide to Ruby. The preeventualist.org website from Chapter 6 is down. How do i make use of this Github alternative provided by mistydemeo?,nakilon
+37,That's why it's not in space.,/r/redditdev,"Fell from the sky - Made 15ft hole - Metal object about 3ft long, 30kg",nakilon
+38,We would love to see it in /r/CatsSittingLikeThis,/r/redditdev,Is he ... going somewhere ....or is he lying down? You’ll never know his next move >:),nakilon
+39,"Okay, Wikipedia says it was made by Tiago Sousa but nevertheless:
+
+> id Tech 6 reuses code written by Carmack",/r/redditdev,RIP AND TEAR UNTIL ITS DONE,nakilon
+40,You sound like a kind of zombie...,/r/redditdev,Bought this game 3 days ago and now...,nakilon
+41,Half of the fun is thanks to John Carmack who made another engine for id tech that runs so well and looks so good on average PC. But he's not there anymore so your money will go only for the job of map makers and artists.,/r/redditdev,RIP AND TEAR UNTIL ITS DONE,nakilon
+42,Do you really think shareware exists only on computers connected to the Internet?,/r/redditdev,RIP AND TEAR UNTIL ITS DONE,nakilon
+43,Try to calculate in another IDE color scheme.,/r/redditdev,Trying to calculate pi out of random numbers. How to make it faster?,nakilon
+44,Imagine portals...,/r/redditdev,heres a random meme i just made,nakilon
+45,"WhatsApp is a cancer, an app that Facebook has bought just for reading your talks.  
+Use alternatives.
+
+source: worked for FB",/r/redditdev,"Build a location-aware WhatsApp weather bot with Ruby, Sinatra and Twilio",nakilon
+46,"Then download it as a PDF.  
+UPD: yeah, script kiddies are so much uneducated they don't even understand what shit they are doing.",/r/redditdev,QC Lore Android App test version,nakilon
+47,Why does anyone even need this? That's not what mobile apps are for.,/r/redditdev,QC Lore Android App test version,nakilon
+48,"UPD: For anyone with Radeon videocard who find this comments thread in future, I've figured it out.
+
+You have to enable ReLive, Region Recording Hotkey, Borderless Region Capture there AND the Show Overlay in the main drivers settings tab. Then when you use the Region Recording Hotkey it shows the overlay where you chose the Red Alert 2 and it starts recording. Weird thing is that the recorded file has your screen resolution even while the window was smaller.
+
+Now the Windows Magnifier -- since my RA2.ini settings are the screen resolution divided by 2, I move the game window to the corner of the screen with `Win Right`, `Win Down` keys. It breaks the size of the window so I `alt tab` to unstick the mouse from the game and drag the left top corner of the game window to restore the correct window size. This procedure positions the window right in the bottom right corner of your screen so now when you move the mouse there and press `Win +` several times it zooms perfectly to the borders of the game window. Also disable the ""follow mouse"" in the Magnifier settings.
+
+The only issue I might face is that Steam and Windows Notifications appear in that corner so maybe for the game I'll have to move the Windows Taskbar from the left border of the screen to the right one and place the game at the bottom left.
+
+---
+
+Later I'll use the Avidemux software to crop the start and the end of this recording. There you should cut by keyframes and not change the encoding so it will not harm the quality and crop it quickly. I'm yet to think up what things to record since I've found there are already pretty cool speedruns that I can't beat. Maybe I'll fulfil some challenges.",/r/redditdev,Accidentally revealed the minimap in the shape of a thumbs-up,nakilon
+49,"Wait, you can eat office chair?",/r/redditdev,A 6 Cylinder revolver only has 5 magazine slots :/,nakilon
