@@ -7,4 +7,13 @@ Currently, this looks at a subreddit and depending on user input, ends up writin
 In particular, I am currently using this for a project that will guess the generation/age of a redditor based off one comment, using machine learning and natural language processing.
 However, I've had a lot of fun making this and wanna create a full fleged scraper!
 
-Message me at acrosemail@gmail.com for the authentication. 
+###Authentication
+1. [Create a script here](https://www.reddit.com/prefs/apps)
+2. Create a file called config.py
+3. Sub in these variables
+* `client_id=''`
+* `client_secret=''`
+* `password=''`
+* `user_agent=''`
+* `username=''`
+
