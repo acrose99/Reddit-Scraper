@@ -1,4 +1,4 @@
-## Reddit Age Predicter
+## Reddit Scraper
 
 ### How does it work
 I am using [PRAW](https://praw.readthedocs.io/en/latest/) to parse through subreddits.
